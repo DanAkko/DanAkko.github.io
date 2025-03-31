@@ -2,9 +2,13 @@ body {
     background-color: black;
 }
 
+.headerimage {
+    display: flex;
+    justify-content: center;
+}
+
 img {
-    align-items: center;
-    width: 50px;
+    width:80%
 }
 
 .item {
@@ -16,7 +20,6 @@ img {
 
 .container1 {
     display: flex;
-    background-color: purple;
     flex-direction: column;
     align-items: center;
 }
