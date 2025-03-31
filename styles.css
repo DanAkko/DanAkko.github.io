@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+img {
+    align-items: center;
+    width: 50px;
+}
+
+.item {
+    background-color: orange;
+    padding: 5px;
+    border: black solid;
+    width: 250px;
+}
+
+.container1 {
+    display: flex;
+    background-color: purple;
+    flex-direction: column;
+    align-items: center;
+}
