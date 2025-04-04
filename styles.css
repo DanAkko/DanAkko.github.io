@@ -34,3 +34,15 @@ img {
     flex-direction: column;
     align-items: center;
 }
+
+.skullimage {
+    float: right;
+    margin-top: -20em;
+    margin-right: 5em;
+}
+
+.skeletonrunning {
+    float: left;
+    margin-top: -20em;
+    margin-left: 10em;
+}
