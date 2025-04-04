@@ -37,12 +37,24 @@ img {
 
 .skullimage {
     float: right;
-    margin-top: -20em;
+    margin-top: -37em;
     margin-right: 5em;
 }
 
 .skeletonrunning {
     float: left;
-    margin-top: -20em;
+    margin-top: -37em;
+    margin-left: 10em;
+}
+
+.formheader {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+form {
+    color: white;
+    font-weight: bold;
     margin-left: 10em;
 }
